@@ -2,6 +2,6 @@
   "Post": {
     "views": "int",
     "published": "boolean",
-    "createdAt": "date",
+    "createdAt": "date"
   }
 }
