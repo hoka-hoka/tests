@@ -1,7 +1,7 @@
 {
   "Post": {
-    "userId": "int",
     "id": "int",
+    "userId": "int",
     "word": "string",
     "position": "int",
     "translate": "string"
