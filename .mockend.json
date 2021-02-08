@@ -1,8 +1,8 @@
 {
-  "Post": {
+  "Post": [{
     "id": "int",
     "word": "string",
     "position": "int",
     "translate": "string"
-  }
+  }]
 }
