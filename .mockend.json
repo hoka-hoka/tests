@@ -1,7 +1,8 @@
-[
-  {
-    "userId": 0,
-    "name": "Vasia",
-    "age": 12
+{
+  "Post": {
+    "id": "int",
+    "word": "string",
+    "position": "int",
+    "translate": "string"
   }
-]
+}
