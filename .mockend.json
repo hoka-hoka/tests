@@ -1,8 +1,7 @@
-{
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+[
+  {
+    "userId": 0,
+    "name": "Vasia",
+    "age": 12
   }
-}
+]
