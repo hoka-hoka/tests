@@ -4,6 +4,10 @@
     "userId": "int",
     "word": "string",
     "position": "int",
-    "translate": "string"
+     "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
