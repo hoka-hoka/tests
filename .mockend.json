@@ -8,5 +8,7 @@
   },
   "Comment": {
     "body": "string",
+    "id": "int",
+    "post": "Post"
   }
 }
