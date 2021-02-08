@@ -1,6 +1,10 @@
 {
   "Post": {
-    "title": "string",
+    "title": "string[]",
+    "name": "strings"
+    "nam": "string string",
+    "vi": "[string]",
+    "vo": "[string, string]",
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
