@@ -1,18 +1,9 @@
 {
   "Post": {
-    "title": "string[]",
-    "name": "strings",
-    "nam": "string string",
-    "vi": "[string]",
-    "vo": "[string, string]",
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Comment[]"
   },
-  "Comment": {
-    "body": "string",
-    "id": "int",
-    "post": "Post"
-  }
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
 }
