@@ -1,7 +1,7 @@
 {
   "Post": {
     "title": "string[]",
-    "name": "strings"
+    "name": "strings",
     "nam": "string string",
     "vi": "[string]",
     "vo": "[string, string]",
